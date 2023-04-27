@@ -1,6 +1,5 @@
 # Hello, GitHub!
-<p>My name is Breno and I'm a Computer Science Student at Universidade do Vale do Rio dos Sinos (UNISINOS).
-I live in the city of Porto Alegre, Rio Grande do Sul, Brazil. I'm mostly into back-end development with Java, Spring Framework, MySQL and PostgreSQL. Besides that, I'm interesed in functional programming, TypeScript and always willing to learn new programming languages and technologies. I'm currently looking for my first entry level programming job.</p>
+<p>Hello! I am a Computer Science student and a self-taught Web Developer. Currently, I am studying technologies related to the JavaScript ecosystem, such as ReactJS, NodeJS, and mainly NextJS. I am looking for my first opportunity in software development, either in an internship position or as a junior developer, to put into practice everything I have studied so far, contribute to the success of projects, and, above all, learn from more experienced developers.</p>
 
 ## Contact
 <p>Feel free to contact me on any social network!</p>
