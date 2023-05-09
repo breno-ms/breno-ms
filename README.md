@@ -1,5 +1,5 @@
 # Hello, GitHub!
-<p>Hello! I am a Computer Science student and a self-taught Web Developer. Currently, I am studying technologies related to the JavaScript ecosystem, such as ReactJS, NodeJS, and mainly NextJS. I am looking for my first opportunity in software development, either in an internship position or as a junior developer, to put into practice everything I have studied so far, contribute to the success of projects, and, above all, learn from more experienced developers.</p>
+<p>Hello! I am a Computer Science student and a self-taught web developer. I am mainly interested in back-end development, using technologies related to the Java ecosystem, such as Spring Framework, PostgreSQL, and MongoDB. I am familiar with the HTTP protocol and REST architecture.</p>
 
 ## Contact
 <p>Feel free to contact me on any social network!</p>
