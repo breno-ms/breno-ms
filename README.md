@@ -1,5 +1,5 @@
 # Hello, GitHub!
-<p>I am a back-end software developer at Alura.</p>
+<p>I am a backend software developer at Alura.</p>
 
 # Contact
 <p>Feel free to contact me</p>
